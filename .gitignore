@@ -1,0 +1,12 @@
+/.idea
+.settings
+.project
+*.iml
+.classpath
+target
+.git
+*.class
+bin
+
+/logDir_IS_UNDEFINED
+/disconf
