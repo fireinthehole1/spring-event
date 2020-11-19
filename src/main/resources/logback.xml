@@ -2,7 +2,7 @@
 
 <configuration scan="true" scanPeriod="60 seconds">
     <property name="logPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level [%thread] [%logger{50}] [Line:%-3L] - %msg%n"/>
-    <property name="logDir" value="/my/jenkins/workspace-sh/spring-event/log"/>
+    <property name="logDir" value="/my_dev/projects/spring-event/log"/>
 
     <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
